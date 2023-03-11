@@ -1,2 +1,2 @@
- **Project Name**/n
+ **Project Name**
  *This is a vargant repo test*
